@@ -1,1 +1,12 @@
-theme: jekyll-theme-cayman
+#global settings
+title: Daniel's Blog
+description: Personal Blog
+
+plugins:
+  - jekyll-avatar
+  - jekyll-redirect-from
+  - jekyll-seo-tag
+  - jekyll-sitemap
+  - jekyll-octicons
+site:
+  show_downloads: false
