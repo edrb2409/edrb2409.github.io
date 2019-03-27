@@ -1,6 +1,11 @@
 #global settings
 title: Daniel's Blog
 description: Personal Blog
+author: Daniel Ron
+social:
+  twitter: edanielron
+  linkedin: edwin-daniel-ron-bastidas
+  github: edrb2409
 
 plugins:
   - jekyll-avatar
@@ -8,5 +13,5 @@ plugins:
   - jekyll-seo-tag
   - jekyll-sitemap
   - jekyll-octicons
-site:
-  show_downloads: false
+
+
